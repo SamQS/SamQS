@@ -60,20 +60,7 @@ I am a Bachelor in Systems Engineering with a strong interest in web development
 
 <br/>
 
----
-
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
-
 ----
 Credit: [Bgstatic](https://github.com/Bgstatic)
 
-Last Edited on: 23/09/2020
+
