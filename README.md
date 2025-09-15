@@ -23,7 +23,7 @@ I am a Bachelor in Systems Engineering with a strong interest in web development
 ### Contact with me 📝
 
 
-[![Website](https://img.shields.io/badge/Website-Visit-000000?style=flat&logo=Google-chrome&logoColor=white)]([https://tu-sitio.com](https://samqs.github.io/myPortfolio/))
+[![Website](https://img.shields.io/badge/Website-Visit-000000?style=flat&logo=Google-chrome&logoColor=white)](mailto:[https://tu-sitio.com](https://samqs.github.io/myPortfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/samuel-quenta-salas/))
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/tuusuario](https://www.instagram.com/dsammqs/?hl=es-la))
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diegodsqs2@gmail.com)
