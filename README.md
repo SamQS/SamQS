@@ -18,10 +18,11 @@
 
 ### Contact with me 📝
 
-<a href="https://tu-sitio.com"><img align="left" alt="Website" height="30px" src="https://cdn.simpleicons.org/googlechrome/4285F4" /></a>
-<a href="https://www.linkedin.com/in/tuusuario"><img align="left" alt="LinkedIn" height="30px" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
-<a href="https://www.instagram.com/tuusuario"><img align="left" alt="Instagram" height="30px" src="https://cdn.simpleicons.org/instagram/E4405F" /></a>
-<a href="https://open.spotify.com/user/diegodsqs4"><img align="left" alt="Spotify" height="30px" src="https://cdn.simpleicons.org/spotify/1DB954" /></a>
+[![Website](https://img.shields.io/badge/Website-Visit-000000?style=flat&logo=Google-chrome&logoColor=white)](https://tu-sitio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+
 
 
 <br />
