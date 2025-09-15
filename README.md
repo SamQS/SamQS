@@ -60,7 +60,6 @@ I am a Bachelor in Systems Engineering with a strong interest in web development
 
 <br/>
 
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
+
 
 
