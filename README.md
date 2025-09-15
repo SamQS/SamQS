@@ -23,10 +23,10 @@ I am a Bachelor in Systems Engineering with a strong interest in web development
 ### Contact with me 📝
 
 
-[![Website](https://img.shields.io/badge/Website-Visit-000000?style=flat&logo=Google-chrome&logoColor=white)](https://tu-sitio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-000000?style=flat&logo=Google-chrome&logoColor=white)]([https://tu-sitio.com](https://samqs.github.io/myPortfolio/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/samuel-quenta-salas/))
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/tuusuario](https://www.instagram.com/dsammqs/?hl=es-la))
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diegodsqs2@gmail.com)
 
 
 
@@ -45,6 +45,7 @@ I am a Bachelor in Systems Engineering with a strong interest in web development
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![MySql](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
