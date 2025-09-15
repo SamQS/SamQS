@@ -19,7 +19,7 @@
 
 ### Contact with me 📝
 <hr>
-<hr>
+
 [![Website](https://img.shields.io/badge/Website-Visit-000000?style=flat&logo=Google-chrome&logoColor=white)](https://tu-sitio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/tuusuario)
